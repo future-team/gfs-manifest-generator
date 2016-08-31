@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# origin manifest file
+# create at Wed Aug 31 2016 22:11:13 GMT+0800 (CST)
+CACHE:
+./index.css
+./imgs/example2.jpg
+./imgs/example3.jpg
+./common.css
+https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css?hash=wertyuioityrewqytre&timesnap=46541465465469
+./imgs/example1.jpg
+http://115.img.pp.sohu.com/images/blog/2007/6/11/6/15/113b04b5b3c.jpg
+https://code.jquery.com/jquery-2.2.4.min.js
+./common.js
+./index.js?hash=testjavascript&timesnap=46541465465469
+http://www.dabaoku.com/sucaidatu/dongwu/dongwushijie/015203.JPG
+http://img-arch.pconline.com.cn/images/upload/upc/tx/wallpaper/1304/15/c0/19877580_1366010662675.jpg
+./index.html?1472652673928
+NETWORK:
+*

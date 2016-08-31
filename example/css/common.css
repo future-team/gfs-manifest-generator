@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+.wrap {
+    clear: both;
+}
+.bg {
+    float: left;
+    margin: 5px;
+}

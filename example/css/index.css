@@ -1,0 +1,11 @@
+.bg-background-1 {
+  width: 1024px;
+  height: 661px;
+  background: url(./imgs/example2.jpg);
+}
+
+.bg-background-2 {
+  width: 640px;
+  height: 308px;
+  background: url("./imgs/example3.jpg");
+}

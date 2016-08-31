@@ -8,7 +8,12 @@
     "lodash": "^4.15.0",
     "through2": "^2.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-open": "^2.0.0",
+    "gulp-rimraf": "^0.2.0",
+    "run-sequence": "^1.2.2"
+  },
   "homepage": "https://github.com/future-team/gfs-manifest-generator",
   "keywords": [
     "manifest"
