@@ -4,3 +4,7 @@
 .idea
 node_modules/
 npm-debug.log
+.git
+example
+docs
+test

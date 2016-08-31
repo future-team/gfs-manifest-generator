@@ -1,18 +1,29 @@
 {
-  "name": "manifest-generator",
-  "version": "0.0.1",
-  "description": "generator .appcache file",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
+  "name": "gfs-manifest-generator",
+  "description": "generator manifest file.",
+  "version": "1.0.0",
+  "author": "genffy <lee.genffy@gmail.com>",
+  "bugs": "https://github.com/future-team/gfs-manifest-generator/issues",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "through2": "^2.0.1"
   },
+  "devDependencies": {},
+  "homepage": "https://github.com/future-team/gfs-manifest-generator",
+  "keywords": [
+    "manifest"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/future-team/gfs-manifest-generator"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "genffy",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.14.1",
-    "through2": "^2.0.1"
   }
 }
