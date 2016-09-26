@@ -1,7 +1,7 @@
 {
   "name": "gfs-manifest-generator",
   "description": "generator manifest file.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "genffy <lee.genffy@gmail.com>",
   "bugs": "https://github.com/future-team/gfs-manifest-generator/issues",
   "dependencies": {
